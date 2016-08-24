@@ -12,7 +12,7 @@
     "minimum-stability": "stable",
     "autoload": {
         "files": [
-            "cs-framework.php"
+            "bootstrap.php"
         ]
     }
 }

@@ -49,7 +49,7 @@ if( ! function_exists( 'cs_get_path_locate' ) ) {
  *
  *
  */
-$get_path = cs_get_path_locate();
+$get_path =     cs_get_path_locate();
 
 defined( 'CS_BASENAME' )  or  define( 'CS_BASENAME',  $get_path['basename'] );
 defined( 'CS_DIR' )       or  define( 'CS_DIR',       $get_path['dir'] );
