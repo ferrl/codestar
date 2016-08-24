@@ -2,6 +2,7 @@
     "name": "ferrl/codestar",
     "type": "library",
     "license": "MIT",
+    "version": "1.0.1",
     "authors": [
         {
             "name": "Lucas Ferreira",
@@ -9,7 +10,7 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {
+    "autoload": {
         "files": [
             "cs-framework.php"
         ]
