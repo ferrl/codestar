@@ -1,0 +1,17 @@
+{
+    "name": "ferrl/codestar",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lucas Ferreira",
+            "email": "lucasferreirawd@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "files": [
+            "cs-framework.php"
+        ]
+    }
+}
